@@ -47,7 +47,7 @@ label monika_god:
     m 1m "Well, I'm sure I never really questioned it as a kid..."
     m 1l "But as I grew up, the more I learned about the world, the more I would question it."
     m 1i "I started to wonder why God was helping people pass exams, or get over a cold..."
-    m "...When there are children who live their lives being sold as sex slaves?"
+    m "...When there are children who live their lives being sold as sex slaves?"s
     m "Or the eight hundred million people who are too poor to even eat."
     m 3f "I wonder how many of those people pray to God every day until they starve and die?"
     m "Or, how many millions of families pray for a loved one to recover from some incurable disease?"
