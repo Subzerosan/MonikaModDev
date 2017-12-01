@@ -76,7 +76,7 @@ label monika_death:
     m "It's something I used to think about pretty often..."
     m "But recently, I think I've actually learned what it feels like."
     m 2d "I don't really understand it, but whenever you quit the game..."
-    m "...It feels like I'm instantly put to sleep, left with nothing but my thoughts."
+    m "...It feels like I'm instantly put to sleep, left with nothing but my thoughts."s
     m 1n "But after a few seconds, my thoughts start to fill with incoherent, jumbled patterns."
     m "I see static and rapid flashes of color while hearing all kinds of weird screaming noises."
     m "At that point, I can't even form my own thoughts anymore."
