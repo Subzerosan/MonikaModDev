@@ -8,7 +8,7 @@ define monika_random_topics = []
 define testitem = 0
 
 # we are going to define removing seen topics as a function,
-# as we need to call it dynamically upon import
+# as we need to call it dynamically upon imports
 init -1 python:monika_cupcakes
     def remove_seen_topics():
         #
